@@ -1,6 +1,6 @@
 {
     "type": "package",
-    "name": "MartinSStewart/elm-codec-bytes",
+    "name": "elm-simplex/martinsstewart-elm-codec-bytes",
     "summary": "Build binary encoders and decoders with minimal boilerplate",
     "license": "MIT",
     "version": "1.1.0",
@@ -12,8 +12,5 @@
         "elm/bytes": "1.0.8 <= v < 2.0.0",
         "elm/core": "1.0.2 <= v < 2.0.0"
     },
-    "test-dependencies": {
-        "elm/random": "1.0.0 <= v < 2.0.0",
-        "elm-explorations/test": "1.2.1 <= v < 2.0.0"
-    }
+    "test-dependencies": {}
 }
